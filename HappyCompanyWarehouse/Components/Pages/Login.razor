@@ -1,0 +1,149 @@
+﻿@page "/"
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+@using HappyCompanyWarehouse.Components.Layout
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@inject IAuthService AuthService
+@layout EmptyLayout
+
+<style>
+    .gradient-custom-2 {
+        /* fallback for old browsers */
+        background: #fccb90;
+
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #2524ee, #3657d8, #365fdd, #4592b4);
+    }
+
+    @@media (min-width: 768px) {
+        .gradient-form {
+            height: 100vh !important;
+        }
+    }
+
+    @@media (min-width: 769px) {
+        .gradient-custom-2 {
+            border-top-right-radius: .3rem;
+            border-bottom-right-radius: .3rem;
+        }
+    }
+</style>
+
+<EditForm Model="loginModel" OnValidSubmit="HandleValidSubmit" FormName="loginForm">
+    <DataAnnotationsValidator />
+ 
+
+    <section class="h-100 gradient-form">
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-xl-10">
+                    <div class="card rounded-3 text-black">
+                        <div class="row g-0">
+                            <div class="col-lg-6">
+                                <div class="card-body p-md-5 mx-md-4">
+                                    <div class="text-center">
+                                        <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp"
+                                             style="width: 185px;" alt="logo">
+                                        <h4 class="mt-1 mb-5 pb-1">We are Happy Company</h4>
+                                    </div>
+
+                                    <p>Please login to your account</p>
+
+                                    <div class="mt-3">
+                                           <ValidationSummary />
+                                    </div>
+
+                                    @if (!string.IsNullOrEmpty(errorMessage))
+                                    {
+                                        <div class="alert alert-danger mt-3">@errorMessage</div>
+                                    }
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label for="email">Email</label>
+                                        <InputText required id="email" type="email" class="form-control" @bind-Value="loginModel.Email" placeholder="Enter your email" />
+                                        <ValidationMessage For="@(() => loginModel.Email)" />
+                                    </div>
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label for="password">Password</label>
+                                        <InputText required id="password" type="password" class="form-control" @bind-Value="loginModel.Password" placeholder="Enter your password" />
+                                        <ValidationMessage For="@(() => loginModel.Password)" />
+                                    </div>
+
+                                    <div class="text-center pt-1 mb-5 pb-1">
+                                        <button type="submit"
+                                                @onclick:preventDefault="true"
+                                            class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3">Log in</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+                                <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+                                    <h4 class="mb-4">We are more than just a company</h4>
+                                    <p class="small mb-0">
+                                        In Happy Company we provide the best of services for Warehouse item management.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</EditForm>
+
+@code {
+
+    [SupplyParameterFromForm]
+    public LoginDto loginModel { get; set; }
+    public UserDto userDto { get; set; }
+    private string errorMessage;
+    private bool isLoggedIn = false;
+
+    protected override void OnInitialized() => loginModel ??= new();
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            var response = await Http.PostAsJsonAsync("User/Login", loginModel);
+
+            if (response.IsSuccessStatusCode)
+            {
+                userDto = await response.Content.ReadFromJsonAsync<UserDto>();
+                //await AuthService.SetCurrentUserAsync(userDto);
+
+                // Handle successful login (e.g., store token, redirect, etc.)
+
+                isLoggedIn = true;
+                Navigation.NavigateTo("/home");
+            }
+            else
+            {
+                errorMessage = await response.Content.ReadAsStringAsync();
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+        {
+            // Perform JavaScript interop calls here
+         
+
+            if (isLoggedIn)
+            {
+                await AuthService.SetCurrentUserAsync(userDto);
+               
+            }
+        }
+    }
+}

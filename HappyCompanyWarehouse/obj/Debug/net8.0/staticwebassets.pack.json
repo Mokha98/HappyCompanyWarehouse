@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HappyCompanyWarehouse.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HappyCompanyWarehouse.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HappyCompanyWarehouse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HappyCompanyWarehouse.props",
+      "PackagePath": "build\\HappyCompanyWarehouse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HappyCompanyWarehouse.props",
+      "PackagePath": "buildMultiTargeting\\HappyCompanyWarehouse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HappyCompanyWarehouse.props",
+      "PackagePath": "buildTransitive\\HappyCompanyWarehouse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

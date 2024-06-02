@@ -1,0 +1,44 @@
+﻿@page "/home"
+@using DataModel.Dtos
+@inject IAuthService _IAuthService
+
+<h3>User Profile</h3>
+
+@if (user == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div>
+        <p><strong>Full name:</strong> @user.FullName</p>
+        <p><strong>Email:</strong> @user.Email</p>
+        <p><strong>Role:</strong> @user.RoleName</p>
+
+        <a href="/ChangePassword" >Change Password</a>
+    </div>
+}
+
+@code {
+    private UserDto user;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // if (!await _IAuthService.IsAuthenticatedAsync())
+        // {
+        //     Navigation.NavigateTo("/Login");
+        // }
+
+         user = await _IAuthService.GetCurrentUserAsync();
+
+       
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!await _IAuthService.IsAuthenticatedAsync())
+        {
+            Navigation.NavigateTo("/Login");
+        }
+    }
+}

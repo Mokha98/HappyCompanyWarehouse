@@ -1,0 +1,748 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F639BFA-AB4D-42F4-A29B-2379C8070AAD}|DataModel\\DataModel.csproj|e:\\visual studio projects\\happycompanywarehouse\\datamodel\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F639BFA-AB4D-42F4-A29B-2379C8070AAD}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F639BFA-AB4D-42F4-A29B-2379C8070AAD}|DataModel\\DataModel.csproj|e:\\visual studio projects\\happycompanywarehouse\\datamodel\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F639BFA-AB4D-42F4-A29B-2379C8070AAD}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\layout\\emptylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\layout\\emptylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\pages\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\pages\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|e:\\visual studio projects\\happycompanywarehouse\\happycompanywarehouse\\happycompanywarehouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15D59389-CFB0-4E20-9810-5D96A9BD9D49}|HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj|solutionrelative:happycompanywarehouse\\happycompanywarehouse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F639BFA-AB4D-42F4-A29B-2379C8070AAD}|DataModel\\DataModel.csproj|e:\\visual studio projects\\happycompanywarehouse\\datamodel\\dto\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F639BFA-AB4D-42F4-A29B-2379C8070AAD}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dto\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\entity\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\entity\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\interfaces\\iwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iwarehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\entity\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\entity\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|e:\\visual studio projects\\happycompanywarehouse\\dal\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA6CB71-EC69-4C84-AB82-3E688F4E8664}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|e:\\visual studio projects\\happycompanywarehouse\\api\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD2A20-0871-4CB3-A7E7-2971FD4196D0}|Api\\Api.csproj|solutionrelative:api\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 524,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\Pages\\Login.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T16:42:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Program.cs",
+              "RelativeDocumentMoniker": "DAL\\Program.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Program.cs",
+              "RelativeToolTip": "DAL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:44:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T17:32:21.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA3wA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:19:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Services\\UserService.cs",
+              "RelativeToolTip": "DAL\\Services\\UserService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:17:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:38:28.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\WarehouseController.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "Api\\Controllers\\WarehouseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:22:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:06:39.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:21:31.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DataModel\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "DataModel\\Dto\\UserDto.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DataModel\\Dto\\UserDto.cs",
+              "RelativeToolTip": "DataModel\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:14:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T18:38:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T20:09:33.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\appsettings.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\appsettings.json",
+              "RelativeToolTip": "DAL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T20:09:50.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DataModel\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DataModel\\Dto\\LoginDto.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DataModel\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "DataModel\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:14:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:33:40.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Program.cs",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Program.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Program.cs",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:31:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\appsettings.json",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\appsettings.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\appsettings.json",
+              "RelativeToolTip": "HappyCompanyWarehouse\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T17:32:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\App.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\App.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\App.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:08:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T19:35:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\appsettings.Development.json",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\appsettings.Development.json",
+              "RelativeToolTip": "HappyCompanyWarehouse\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T19:20:48.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\Routes.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Routes.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:08:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmptyLayout.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Layout\\EmptyLayout.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\Layout\\EmptyLayout.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Layout\\EmptyLayout.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\Layout\\EmptyLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:50:20.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:54:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Pages\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\Pages\\ChangePassword.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Pages\\ChangePassword.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\Pages\\ChangePassword.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:59:09.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Services\\AuthService.cs",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:53:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:09:07.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\Components\\_Imports.razor",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\Components\\_Imports.razor",
+              "RelativeToolTip": "HappyCompanyWarehouse\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:07:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T11:37:57.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HappyCompanyWarehouse.csproj",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj",
+              "RelativeDocumentMoniker": "HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj",
+              "RelativeToolTip": "HappyCompanyWarehouse\\HappyCompanyWarehouse.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T16:29:29.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\DataContext.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Data\\DataContext.cs",
+              "RelativeToolTip": "DAL\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:05:09.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T17:24:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Api\\Interfaces\\ITokenService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Api\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:40:05.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Api\\Services\\TokenService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "Api\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vw0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:40:20.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WarehouseDto.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DataModel\\Dto\\WarehouseDto.cs",
+              "RelativeDocumentMoniker": "DataModel\\Dto\\WarehouseDto.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DataModel\\Dto\\WarehouseDto.cs",
+              "RelativeToolTip": "DataModel\\Dto\\WarehouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:14:46.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\Warehouse.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Warehouse.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\Warehouse.cs",
+              "RelativeToolTip": "DAL\\Entity\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:32:20.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Services\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\WarehouseService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Services\\WarehouseService.cs",
+              "RelativeToolTip": "DAL\\Services\\WarehouseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:35:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\AppUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\AppUser.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\AppUser.cs",
+              "RelativeToolTip": "DAL\\Entity\\AppUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:32:10.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:54:39.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\RoleType.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\RoleType.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\RoleType.cs",
+              "RelativeToolTip": "DAL\\Entity\\RoleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:39:42.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IWarehouseService.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Interfaces\\IWarehouseService.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IWarehouseService.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Interfaces\\IWarehouseService.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IWarehouseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:37:39.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Country.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\Country.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Country.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\Country.cs",
+              "RelativeToolTip": "DAL\\Entity\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:24:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WarehouseItem.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\WarehouseItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\WarehouseItem.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Entity\\WarehouseItem.cs",
+              "RelativeToolTip": "DAL\\Entity\\WarehouseItem.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:47:19.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Helper\\DataHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\DataHelper.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\DAL\\Helper\\DataHelper.cs",
+              "RelativeToolTip": "DAL\\Helper\\DataHelper.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:11:27.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "Api\\Enums\\Enums.cs",
+              "ToolTip": "E:\\Visual Studio Projects\\HappyCompanyWarehouse\\Api\\Enums\\Enums.cs",
+              "RelativeToolTip": "Api\\Enums\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:31:54.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
